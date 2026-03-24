@@ -73,7 +73,7 @@ Each task contains:
 ### 1️⃣ Clone Repo
 
 ```bash
-git clone <your-repo-url>
+git clone git@github.com:jswati317/JiraApp.git
 cd TaskManager
 ```
 
