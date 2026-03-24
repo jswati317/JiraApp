@@ -1,0 +1,14 @@
+# Build outputs
+bin/
+obj/
+
+# DLL files
+*.dll
+
+# VS / Rider / Mac
+.vs/
+*.user
+*.suo
+
+# OS files
+.DS_Store
